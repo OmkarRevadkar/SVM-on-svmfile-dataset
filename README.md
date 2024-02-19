@@ -1,6 +1,7 @@
-SVM (Support Vector Machines) is a supervised learning classification algorithm. It is used to segregate classes and it then applies probability for the classes to give the final prediction. SVM is preferable when the target variable is categorical and when the data set is very very large i.e when the data is a high dimensional data. 
+SVM (Support Vector Machines) is a supervised learning classification algorithm. It is used to segregate classes and it then applies probability for the classes to give the final prediction. SVM is preferable when the target variable is categorical and when the dataset is very very large i.e when the data is a high dimensional data. 
 
 We will choose a kernel or boundary line (SVM hyperparameter) which is farthest away even from the nearest point so that the probabilities are quite differentiable and final predictions are easy to make for the machine. Hence, decision making on SVM model will be much more easier.
+Adequate care has also been taken during data cleaning process by maintaining the order of the ordinal data so that the machine does not generate false impressions/insights and we get meaningful productive insights.
 
 Interestingly, SVM can also be used in case of regression problems but the best results are found with classification problems.
 
